@@ -1,0 +1,111 @@
+body {background-image:url("arcade.jpg");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;background-size: cover;}
+
+
+      
+      
+header {background:#FFE699;
+        height: 100px;
+        border-style: groove;
+        border-color:#DB9900;
+        border-width: 20px;
+         }
+
+    
+h1 {text-align:center;margin-top: 0;}
+
+
+
+nav li {display:inline;padding:5px;5px;5px;5px;margin-left: 3%}
+
+nav a {height: 80px;
+       width: 100%;
+       
+    }
+    
+
+
+     
+
+       
+div {background:#FFE699;
+     width:20%;float: left;
+     padding: 30px;
+     margin:120px;
+     margin-top:5px;
+     border-style: groove;
+     border-width: 20px;
+     border-color: #DB9900;
+     min-width: 250px;     
+    
+}
+
+
+#main {border: solid 30px;}
+
+
+
+#div2 {background-image:url("gold.jpg");
+       float:right;
+       padding:10px;
+       width: 30%;
+       height: 300px;
+       margin-right: 45px;
+       margin-top: 150px;
+       
+     }
+     
+#div3 {background-image:url("gold.jpg"); height: 450px;width:80%;
+        min-width: 400px;
+        max-width: 500px;
+        float:center;
+        padding:20% 15% 15% 15%;
+        margin-left: 300px;
+        
+        }
+        
+#div4 {background:#FFE699;
+     width:80%;float: left;
+     padding: 30px;
+     margin:30px;;
+     margin-top:5px;
+     border-style: groove;
+     border-width: 20px;
+     border-color: #DB9900;
+     min-width: 250px;     
+    
+}
+
+#div5 {background:#FFE699;
+     width:80%;float: left;
+     padding: 30px;
+     margin:30px;;
+     margin-top:5px;
+     border-style: groove;
+     border-width: 20px;
+     border-color: #DB9900;
+     min-width: 250px;     
+    
+}
+
+#baseball{
+     height: 75px;
+     width: 75px;
+}
+        
+#name {background-color:#DB9900;}
+        
+#answer1 {visibility:hidden;background:#FFBB00;width: 60px;}
+#answer2 {visibility:hidden;background:#FFBB00;width: 90px;}
+#answer3 {visibility:hidden;background:#FFBB00;width: 90px;}
+#answer4 {visibility:hidden;background:#FFBB00;width: 90px;}
+#answer5 {visibility:hidden;background:#FFBB00;width: 90px;}
+
+
+
+
+*/@media screen and (min-width:200px) {div {margin:0;border-style:none;border-width: none;border-color: none;font-size: small;min-width: 150px;}{header {height:250px;border-bottom-style: none;border-width: none;border-color: none;}{body {background-image: none;}{#div2 {height: auto;}{#div3 {width:60%;max-width: 200px;padding: none;}{#div4 {width: auto;padding: none;border-style: none; border-width: none;border-color: none;min-width: 200px;}{#div5 {width: auto;padding;0;border-style: none;border-width: none;border-color: none;min-width: 100px;}}
+
+
